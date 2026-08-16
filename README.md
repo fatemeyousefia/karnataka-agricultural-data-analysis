@@ -73,3 +73,9 @@ Karnataka-Agricultural-data-analysis/
 
 This project provided practical experience in data cleaning, exploratory data analysis, data visualization, and interpreting patterns in a real-world agricultural dataset.
 
+## Author
+
+Fatemeh Yousefi Amiri
+
+Data / Business Analyst | Python | SQL | Tableau
+
